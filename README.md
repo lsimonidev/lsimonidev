@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hey, I'm Laura 
 
+- 👋 I'm a mom, immigrant, web developer, feminist and 🐱cat lady, not necessarily in this order.
+- 🔭 I’m currently working on a vuejs pwa project
+- 🌱 I’m currently taking the Meta's Front End dev course, on coursera
+- 👯 Do you know any project where I can collaborate and grow my skills?
+- 📫 How to reach me: 🐤@lsimonidev
 <!--
 **lsimonidev/lsimonidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
