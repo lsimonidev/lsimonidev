@@ -1,13 +1,20 @@
 <template>
   <div>
-    <h1 class="header">Hi. I'm <span class="special">Laura Simoni</span></h1>
-    <p>I'm a Web Developer</p>
+    <h1 class="header">
+      {{ intro.greeting }} <span class="special">{{ intro.myName }}</span>
+    </h1>
+    <p>{{ intro.intro }}</p>
   </div>
 </template>
 
 <script>
+import { mapGetters } from 'vuex';
+
 export default {
   name: 'Header',
+  computed: {
+    ...mapGetters({ intro: 'intro' }),
+  },
 };
 </script>
 
