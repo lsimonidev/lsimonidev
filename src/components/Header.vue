@@ -1,9 +1,9 @@
 <template>
   <div>
     <h1 class="header">
-      {{ intro.greeting }} <span class="special">{{ intro.myName }}</span>
+      {{ about.greeting }} <span class="special">{{ about.myName }}</span>
     </h1>
-    <p>{{ intro.intro }}</p>
+    <p>{{ about.intro }}</p>
   </div>
 </template>
 
@@ -13,7 +13,7 @@ import { mapGetters } from 'vuex';
 export default {
   name: 'Header',
   computed: {
-    ...mapGetters({ intro: 'intro' }),
+    ...mapGetters({ about: 'about' }),
   },
 };
 </script>

@@ -1,9 +1,9 @@
 import Vuex from 'vuex';
-import intro from './modules/intro';
+import about from './modules/about';
 
 //Create store
 export default new Vuex.Store({
   modules: {
-    intro,
+    about,
   },
 });
