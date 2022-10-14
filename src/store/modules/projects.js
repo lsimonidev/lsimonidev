@@ -1,6 +1,23 @@
 const state = {
   projects: [
     {
+      projectName: 'Personal Website',
+      position: 'Owner',
+      startDate: '12/10/2022',
+      endDate: 'Present',
+      description: '',
+      mainTechnologies: [
+        'HTML',
+        'CSS',
+        'VueJS',
+        'Vuex',
+        'GIT',
+        'github',
+        'vercel',
+      ],
+      company: 'Myself',
+    },
+    {
       projectName: 'Hostelworld PWA',
       position: 'Junior Software Engineer',
       startDate: 01 / 07 / 2021,
