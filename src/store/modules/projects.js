@@ -64,7 +64,7 @@ const state = {
 };
 
 const getters = {
-  about: (state) => state.about,
+  projects: (state) => state.projects,
 };
 
 export default {
