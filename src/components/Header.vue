@@ -19,7 +19,6 @@ export default {
 </script>
 
 <style scoped lang="scss">
-@import '~/scss/_variables.scss';
 .header {
   font-size: 2rem;
   font-weight: 700;

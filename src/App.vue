@@ -1,5 +1,7 @@
 <template>
-  <Header />
+  <div class="container">
+    <Header />
+  </div>
 </template>
 
 <script>
@@ -14,8 +16,6 @@ export default {
 </script>
 
 <style lang="scss">
-@import '~/scss/_variables.scss';
-
 * {
   margin: 0;
   padding: 0;
@@ -27,7 +27,15 @@ export default {
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
   background-color: $pink;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  .container {
+    max-width: 64rem;
+    margin: 0 auto;
+    padding: 2rem;
+  }
 }
 </style>
