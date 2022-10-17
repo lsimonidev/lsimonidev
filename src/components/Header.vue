@@ -2,9 +2,9 @@
   <header class="drac-box">
     <h1 class="greeting drac-heading drac-heading-2xl drac-text-white">
       {{ about.greeting }}
-      <span class="drac-text-pink-purple">{{ about.myName }}</span>
+      <span class="drac-text-pink-purple">{{ about.myName }}.</span>
     </h1>
-    <p class="drac-text drac-text-lg drac-line-height-xl drac-text-grey-light">
+    <p class="drac-text drac-text-lg drac-line-height-xl drac-text-white">
       {{ about.intro }}
     </p>
   </header>

@@ -1,20 +1,24 @@
 <template>
   <div class="container">
     <Header />
+    <projects />
   </div>
 </template>
 
 <script>
 import Header from './components/Header.vue';
+import Projects from './components/Projects.vue';
 
 export default {
   name: 'App',
   components: {
     Header,
+    Projects,
   },
 };
 </script>
 
+ProjectCard
 <style lang="scss">
 body {
   .container {
