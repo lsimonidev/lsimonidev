@@ -1,17 +1,16 @@
 <template>
-  <div>
-    <h1 class="header">
+  <header>
+    <h1 class="greeting">
       {{ about.greeting }} <span class="special">{{ about.myName }}</span>
     </h1>
     <p>{{ about.intro }}</p>
-  </div>
+  </header>
 </template>
 
 <script>
 import { mapGetters } from 'vuex';
 
 export default {
-  name: 'Header',
   computed: {
     ...mapGetters({ about: 'about' }),
   },
@@ -19,7 +18,7 @@ export default {
 </script>
 
 <style scoped lang="scss">
-.header {
+.greeting {
   font-size: 2rem;
   font-weight: 700;
   .special {

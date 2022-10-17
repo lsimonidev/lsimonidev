@@ -20,7 +20,7 @@ const state = {
     {
       projectName: 'Hostelworld PWA',
       position: 'Junior Software Engineer',
-      startDate: 01 / 07 / 2021,
+      startDate: '01/07/2021',
       endDate: 'Present',
       description:
         'Project focused on adherence and deployment of Protheus ERP, developed by TOTVS S/A. The main goal was to connect all areas of the company such as fiscal, human resources, payments and legal department through one software. I managed the project, dealt with legacy data to be imported. Had to manage conflicts and decide whether the modules were considered delivered or not. ',
