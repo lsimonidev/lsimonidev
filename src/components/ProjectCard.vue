@@ -1,6 +1,6 @@
 <template>
   <article class="card drac-box drac-card drac-card-subtle drac-border-purple">
-    <header>
+    <div class="card-container">
       <p
         class="year drac-heading drac-heading-l drac-text-purple drac-text-bold"
       >
@@ -14,16 +14,16 @@
       >
         {{ card.position }}
       </p>
-      <div>
-        <span
+      <ul class="technologies">
+        <li
           v-for="technology in card.mainTechnologies"
           :key="technology.id"
-          class="description drac-text drac-text-white drac-line-height-2xl drac-text-lg"
+          class="technology drac-text drac-text-white drac-line-height-2xl drac-text-lg"
         >
           {{ technology }}
-        </span>
-      </div>
-    </header>
+        </li>
+      </ul>
+    </div>
   </article>
 </template>
 
@@ -36,8 +36,23 @@ export default {
 };
 </script>
 
-<style>
+<style lang="scss">
 .card {
-  max-width: 300px;
+  min-width: calc(100vw - 2rem);
+  scroll-snap-align: start;
+  padding: 1rem;
+  .technologies {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+
+    .technology {
+      margin-right: 0.5rem;
+      &::before {
+        content: '#';
+      }
+    }
+  }
 }
 </style>

@@ -1,6 +1,10 @@
 <template>
-  <div v-for="project in projects" :key="project.id">
-    <project-card :card="project" />
+  <div class="projects drac-scrollbar-grey">
+    <project-card
+      v-for="project in projects"
+      :key="project.id"
+      :card="project"
+    />
   </div>
 </template>
 
@@ -15,4 +19,14 @@ export default {
 };
 </script>
 
-<style></style>
+<style lang="scss" scoped>
+.projects {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  max-width: 64rem;
+  width: 100vw;
+  overflow: scroll;
+  scroll-snap-type: x mandatory;
+}
+</style>
