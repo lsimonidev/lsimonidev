@@ -1,9 +1,12 @@
 <template>
-  <header>
-    <h1 class="greeting">
-      {{ about.greeting }} <span class="special">{{ about.myName }}</span>
+  <header class="drac-box">
+    <h1 class="greeting drac-heading drac-heading-2xl drac-text-white">
+      {{ about.greeting }}
+      <span class="drac-text-pink-purple">{{ about.myName }}</span>
     </h1>
-    <p>{{ about.intro }}</p>
+    <p class="drac-text drac-text-lg drac-line-height-xl drac-text-grey-light">
+      {{ about.intro }}
+    </p>
   </header>
 </template>
 
@@ -17,12 +20,4 @@ export default {
 };
 </script>
 
-<style scoped lang="scss">
-.greeting {
-  font-size: 2rem;
-  font-weight: 700;
-  .special {
-    color: $purple;
-  }
-}
-</style>
+<style scoped lang="scss"></style>

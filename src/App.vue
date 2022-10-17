@@ -17,8 +17,6 @@ export default {
 
 <style lang="scss">
 body {
-  background-color: $pink;
-
   .container {
     display: flex;
     flex-direction: column;
