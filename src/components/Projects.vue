@@ -26,7 +26,8 @@ export default {
   gap: 2rem;
   max-width: 64rem;
   width: 100vw;
-  overflow: scroll;
+  overflow-x: scroll;
   scroll-snap-type: x mandatory;
+  overflow-y: auto;
 }
 </style>

@@ -2,7 +2,7 @@ const state = {
   projects: [
     {
       projectName: 'Personal Website',
-      position: 'Owner',
+      position: 'Webmaster',
       startDate: '12/10/2022',
       endDate: 'Present',
       description: '',
@@ -35,7 +35,7 @@ const state = {
         'Storybook',
         'Jenkins',
       ],
-      company: 'Voltalia',
+      company: 'HostelWorld.com',
     },
     {
       projectName: 'IFS ERP',
@@ -93,7 +93,7 @@ const state = {
     },
     {
       projectName: 'Soft Pegasus ERP / Soft Cosmos',
-      position: 'Deployent Analyst',
+      position: 'Deployment Analyst',
       startDate: '01/10/2006',
       endDate: '01/10/2012',
       description:
