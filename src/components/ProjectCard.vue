@@ -59,10 +59,6 @@ export default {
 
   &:hover {
     border-color: var(--accentColor);
-    border-radius: var(--rounded-lg);
-    box-shadow: -2px var(--glow-spacing-x) var(--glow-spacing-y)
-      var(--accentColor);
-    z-index: 100;
   }
 }
 </style>
