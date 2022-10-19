@@ -8,6 +8,7 @@
 <script>
 import Header from './components/Header.vue';
 import Projects from './components/Projects.vue';
+import 'dracula-ui/styles/dracula-ui.css';
 
 export default {
   name: 'App',

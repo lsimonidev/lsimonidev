@@ -25,7 +25,7 @@ export default {
   flex-direction: row;
   gap: 2rem;
   padding: 1rem 2rem;
-  max-width: 64rem;
+  max-width: 60rem;
   width: 100vw;
   overflow-x: scroll;
   scroll-snap-type: x mandatory;
