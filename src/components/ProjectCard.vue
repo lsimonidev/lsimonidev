@@ -8,7 +8,9 @@
     >
       {{ card.startDate }}
     </p>
-    <p class="project-name drac-text drac-line-height-l drac-text-sm">
+    <p
+      class="project-name drac-text-grey-light drac-line-height-l drac-text-sm"
+    >
       Project: {{ card.projectName }}
     </p>
     <p
@@ -49,6 +51,7 @@ export default {
     height: 3rem;
     display: flex;
     align-items: center;
+    color: $greyTernary;
   }
   .technologies {
     display: flex;

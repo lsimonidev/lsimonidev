@@ -34,7 +34,9 @@ export default {
   gap: 2rem;
   h1 {
     font-size: 3rem;
+    background-clip: text;
     -webkit-background-clip: text;
+    text-fill-color: transparent;
     -webkit-text-fill-color: transparent;
   }
   h2 {
