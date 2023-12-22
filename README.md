@@ -1,5 +1,12 @@
 # Hi, I'm [Laura Simoni](https://www.linkedin.com/in/lsimoni/) <img src="https://img.shields.io/github/followers/lsimonidev.svg?style=social&label=Follow&maxAge=2592000"/>
-Front-end developer from Brasília, <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="14"> Brazil, working from Porto, <img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="14">  Portugal.
+
+🤓 Front-end dev from Brasília, <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="14"> Brazil, working from Porto, <img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="14">  Portugal.
+
+🌱 I’m currently learning Nuxt3
+
+✍️ I write articles on https://dev.to/lsimonidev
+
+🛼 Hobbies rollerskating, singing and travelling.
 
 <img src="https://img.shields.io/github/last-commit/lsimonidev/lsimonidev.svg"/>
 
@@ -15,5 +22,7 @@ Front-end developer from Brasília, <img src="https://hatscripts.github.io/circl
 
 ### Let's connect ###
 ![Static Badge](https://img.shields.io/badge/%40lsimonidev-black?style=for-the-badge&logo=X&link=https%3A%2F%2Ftwitter.com%2Flsimonidev)
-![Static Badge](https://img.shields.io/badge/dev.to-lsimonidev-0030b3?style=for-the-badge&logo=dev.to&labelColor=black&link=https%3A%2F%2Fdev.to%2Flsimonidev)
+![Static Badge](https://img.shields.io/badge/lsimonidev-black?style=for-the-badge&logo=dev.to&labelColor=black&link=https%3A%2F%2Fdev.to%2Flsimonidev)
+![Static Badge](https://img.shields.io/badge/lsimoni-0077b5?style=for-the-badge&logo=linkedin&labelColor=lsimoni&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flsimoni%2F)
+
 
