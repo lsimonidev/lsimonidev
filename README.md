@@ -14,5 +14,6 @@ Front-end developer from Brasília, <img src="https://hatscripts.github.io/circl
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsimonidev&theme=blue-green" />
 
 ### Let's connect ###
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/lsimonidev)
-[![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lsimonidev)
+![Static Badge](https://img.shields.io/badge/%40lsimonidev-black?style=for-the-badge&logo=X&link=https%3A%2F%2Ftwitter.com%2Flsimonidev)
+![Static Badge](https://img.shields.io/badge/dev.to-lsimonidev-0030b3?style=for-the-badge&logo=dev.to&labelColor=black&link=https%3A%2F%2Fdev.to%2Flsimonidev)
+
