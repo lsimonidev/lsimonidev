@@ -1,4 +1,4 @@
-# Hi, I'm [Laura Simoni](https://www.linkedin.com/in/lsimoni/) <img src="https://img.shields.io/github/followers/lsimonidev.svg?style=social&label=Follow&maxAge=2592000"/>
+# Hi, I'm [Laura Simoni](https://www.linkedin.com/in/lsimoni/) <img src="https://img.shields.io/github/last-commit/lsimonidev/lsimonidev.svg"/>
 
 🤓 Front-end dev from Brasília, <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="14"> Brazil, working from Porto, <img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="14">  Portugal.
 
@@ -8,9 +8,9 @@
 
 🛼 Hobbies rollerskating, singing and travelling.
 
-<img src="https://img.shields.io/github/last-commit/lsimonidev/lsimonidev.svg"/>
 
-### Working with ###
+
+### Tools ###
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" /> <img src="https://img.shields.io/badge/iTerm-000000?style=for-the-badge&logo=iterm2&logoColor=white" />     
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> 
