@@ -1,4 +1,4 @@
-# Hi, I'm [Laura Simoni](https://www.linkedin.com/in/lsimoni/) <img src="https://img.shields.io/github/last-commit/lsimonidev/lsimonidev.svg"/>
+# Hi, I'm [Laura Simoni](https://www.linkedin.com/in/lsimoni/)
 
 🤓 Front-end dev from Brasília, <img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="14"> Brazil, working from Porto, <img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" width="14">  Portugal.
 
